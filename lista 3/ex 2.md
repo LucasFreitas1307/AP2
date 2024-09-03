@@ -1,4 +1,4 @@
-##biblioteca
+### Biblioteca
 ```C
 #ifndef BIBLIO_H_INCLUDED
 #define BIBLIO_H_INCLUDED
@@ -40,7 +40,7 @@ void multiplicacao() {
 
 #endif // BIBLIO_H_INCLUDED
 ```
-##Principal (main)
+### Principal (main)
 ```C
 #include <stdio.h>
 #include <stdlib.h>
