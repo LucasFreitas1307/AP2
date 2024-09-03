@@ -1,4 +1,4 @@
-###Biblioteca 
+### Biblioteca 
 
 ```C 
 #ifndef BIBLIO_H_INCLUDED
@@ -21,8 +21,8 @@ return 0;
 }
 
 #endif // BIBLIO_H_INCLUDED
-
-###Codigo Principal (main)
+```
+### Codigo Principal (main)
 
 ```C
 #include <stdio.h>
@@ -34,4 +34,4 @@ int main()
    printf("%d", parzin());
     return 0;
 }
-
+```
